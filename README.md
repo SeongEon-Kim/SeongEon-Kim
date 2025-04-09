@@ -36,7 +36,7 @@
 ## 📚 주요 프로젝트 및 논문
 
 - `📄 ACK 2024`: **프롬프트 엔지니어링 기반 RAG + Fine-tuning 모델 성능 비교 연구**  
-  → Port MIS 민원 응대 시스템 개선을 위해 **Llama-3 기반 RAG + Fine-tuning 챗봇 모델(RAG + Llama-3-PortMIS-Ko-8B)**을 개발  
+  → Port MIS 민원 응대 시스템 개선을 위해 **Llama-3 기반 RAG + Fine-tuning 챗봇 모델(RAG + Llama-3-PortMIS-Ko-8B)** 을 개발  
   → Zero-shot, Few-shot, CoT, ToT 등 다양한 프롬프트 기법을 통해 RAG 데이터셋 품질 개선  
   → BLEU score 및 정답률 기반 성능 비교를 통해 base 모델 대비 향상된 결과 확인  
   → **한국정보처리학회(ACK 2024)** 포스터 발표 (1저자, 질의응답 포함)
